@@ -1,2 +1,2 @@
 # PMMNM
-K70
+Phần mềm mã nguồn mở K70
